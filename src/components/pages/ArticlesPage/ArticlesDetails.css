@@ -1,0 +1,72 @@
+.maindiv{
+    display: inline-block;
+    margin: auto;
+    padding: 20px;
+    width: 100%;
+    height: auto;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.chldiv{
+    display: flex;
+    position: relative;
+    margin: auto;
+}
+.info-container {
+    width: 110vh;
+    border: 1px solid #666;
+    margin: 25px;
+    margin-top: 20px;
+    padding: 20px;
+    display: inline-block;
+    position: relative;
+    align-items: center;
+    justify-content: flex-end;
+    vertical-align: middle;
+    flex: 1;
+}
+.address-container{
+    position: relative;
+    width: 350px;
+    border: 1px solid #666;
+    margin: 25px;
+    margin-top: 20px;
+    display: inline-block;
+    padding: 20px;
+    vertical-align: middle;
+    flex: 1;
+}
+.image {
+    height: 300px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    flex: 1;
+    padding-top: 60px;
+    margin-top: 60px;
+  }
+legend{
+    margin-left: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+span{
+    text-decoration: underline;
+}
+.str{
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+.backBtn {
+  position: absolute;
+  top: 55px;
+  left: 55px;
+}
