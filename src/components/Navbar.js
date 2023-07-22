@@ -74,9 +74,6 @@ function Navbar() {
               </li>
 
               <li className="nav-item">
-              </li>
-
-              <li className="nav-item">
                 <Link
                   to="forum"
                   className="nav-links"
@@ -113,10 +110,6 @@ function Navbar() {
                     </Button>
                   </Link>
                 )}
-                <li className="searchBar">
-                <div className="nav-links">
-                </div>
-              </li>
               </li>
 
               <li className="nav-btn">
@@ -127,7 +120,6 @@ function Navbar() {
                   <Link
                     to="/sign-up"
                     className="btn-link"
-                    onClick={closeMobileMenu}
                   >
                     <Button buttonStyle="btn--outline" buttonSize="btn--large" onClick={changeBetweenLanguages}>
                       {t("language")}
