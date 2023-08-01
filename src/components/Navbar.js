@@ -95,7 +95,7 @@ function Navbar() {
 
               <li className="nav-btn">
                 {button ? ( ////for leptops
-                  <Link to="/sign-up" className="btn-link languageBtn">
+                  <Link to="/sign-up" className="btn-link">
                     <Button buttonStyle="btn--outline">{t("sign-up")}</Button>
                   </Link>
                 ) : (
