@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Astroworld/static/css/main.6518451c.css",
+    "main.js": "/Astroworld/static/js/main.82499ab0.js",
+    "index.html": "/Astroworld/index.html",
+    "main.6518451c.css.map": "/Astroworld/static/css/main.6518451c.css.map",
+    "main.82499ab0.js.map": "/Astroworld/static/js/main.82499ab0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6518451c.css",
+    "static/js/main.82499ab0.js"
+  ]
+}
