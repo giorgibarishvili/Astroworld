@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Astroworld/static/css/main.6518451c.css",
-    "main.js": "/Astroworld/static/js/main.63e991fb.js",
+    "main.js": "/Astroworld/static/js/main.126d8813.js",
     "index.html": "/Astroworld/index.html",
     "main.6518451c.css.map": "/Astroworld/static/css/main.6518451c.css.map",
-    "main.63e991fb.js.map": "/Astroworld/static/js/main.63e991fb.js.map"
+    "main.126d8813.js.map": "/Astroworld/static/js/main.126d8813.js.map"
   },
   "entrypoints": [
     "static/css/main.6518451c.css",
-    "static/js/main.63e991fb.js"
+    "static/js/main.126d8813.js"
   ]
 }
