@@ -38,16 +38,6 @@ export default function Articlesdata() {
                         <p className="str">{`${data.name}`}</p>
                         <p>{data.content}</p>
                     </fieldset>
-                
-                    {/* <fieldset className="address-container">
-                        <legend>Address</legend>
-                        <p className="str">{`${data.name}`}</p>
-                        <p><span>City: </span>{data.name}</p>
-                        <p><span>Country: </span>{data.name}</p>
-                        <p><span>State: </span>{data.name}</p>
-                        <p><span>Street address: </span>{data.name}</p>
-                        <p><span>ZIP: </span>{data.name}</p>
-                    </fieldset> */}
                     </div>
                 }
                  <hr />

@@ -8,7 +8,7 @@ export const homeObjTwo = {
   description3: "Email: _____",
   buttonLabel: "Contact Us",
   imgStart: "",
-  img: "../images/svg-4.svg",
+  img: "https://i.ibb.co/F7765Y7/svg-4.png",
   alt: "img",
 };
 

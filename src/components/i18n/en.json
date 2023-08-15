@@ -22,5 +22,17 @@
     "email": "Email",
     "checkArticles": "Check out these articles",
     "language": "Lang",
-    "back": "Back"
+    "back": "Back",
+    "goals": "Goals",
+    "aboutUsP": "\"AstroWorld\" is an educational web portal where Users have the opportunity to study astronomy Basics and get to know the latest news in this field. similar The idea of ​​creating a portal came to us when the members of the group While searching for information, we found that it is in Georgian Insufficient number of sources. In addition, this information is scattered in the Internet space and Interested persons are not sure to be found in reliability of materials. In the process of working on the project, we tried our best to solve these problems.",
+    "forWho": "Who is our project intended for?",
+    "forWhoAnswer": "\"AstroWorld\" is designed for people of any age or skill level. The main thing is that you develop an interest in astronomy.",
+    "goalsP": "According to our observations, there is a great interest in astronomy in society, especially among children and adolescents. Therefore, it is necessary to have some educational system, through which these people will be able to find and absorb the desired information easily and effectively.",
+    "result": "Result",
+    "resultP": "Through this project it will be available in Georgian language a lot of information in this branch of science. We will try our best to improve the quality of learning in astronomy with our approaches and strategies, and at the same time, to give even more motivation to interested persons.",
+    "ourEmail": "Our Email ",
+    "hotline": "If you wish, you can contact us on the hotline ",
+    "facebook": "Our Facebook group ",
+    "ourTeam": "Our Team",
+    "teamMembers": "Team members : Giorgi Barishvili"
 }

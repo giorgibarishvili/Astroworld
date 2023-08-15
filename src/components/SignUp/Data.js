@@ -7,7 +7,7 @@
     description: "Welcome to our astronomy newsletter, your gateway to the captivating world of space exploration and celestial wonders. By subscribing, you'll gain access to the latest news, discoveries, and fascinating insights about the universe, delivered directly to your inbox.",
     buttonLabel: 'Sign Up',
     imgStart: '',
-    img: 'images/svg-2.svg',
+    img: 'https://i.ibb.co/jyz2Sx4/svg-2.png',
     alt: 'Moon img'
   };
   

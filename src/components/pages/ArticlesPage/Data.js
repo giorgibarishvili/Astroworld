@@ -8,6 +8,6 @@ export const homeObjOne = {
       'Learn about astronomy and see latest news on uor page',
     buttonLabel: 'Get Started',
     imgStart: '',
-    img: 'images/svg-3.svg',
+    img: 'https://i.ibb.co/yp1CPRk/svg-3.png',
     alt: 'Moon img'
   };
