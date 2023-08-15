@@ -13,7 +13,7 @@ import ArticlesDetails from "./components/pages/ArticlesPage/ArticlesDetails";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Astroworld">
       <Navbar />
 
       <Switch>
