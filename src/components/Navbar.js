@@ -33,12 +33,9 @@ function Navbar() {
   const {t} = useTranslation();
   const [lang, setLang] = useState('en')
   function changeBetweenLanguages() {
-    if (lang === 'en') {
-      setLang('ka');      
-    } else {
-      setLang('en');
-    }
-    i18n.changeLanguage(lang);
+    const newLang = lang === 'en' ? 'ka' : 'en';
+    setLang(newLang);
+    i18n.changeLanguage(newLang);
   }
 
   window.addEventListener("resize", showButton);
